@@ -1,5 +1,5 @@
 title: Vexen Death Voice
-description: Restores Vexen's death voice
+description: Restores Vexen's death cry. If it doesn't work, try putting this mod above Vexen model changes.
 assets:
 - name: obj/N_CM040_BTL.mdlx
   method: binarc
