@@ -1,0 +1,11 @@
+title: Vexen Death Voice
+description: Restores Vexen's death voice
+assets:
+- name: obj/N_CM040_BTL.mdlx
+  method: binarc
+  source:
+  - name: n_cm
+    type: bdx
+    method: bdscript
+    source:
+    - name: N_CM040_BTL.bdscript
