@@ -213,7 +213,7 @@ L335:
  jmp L361
 L361:
  ret 
-TR16:
+OBJ_ANMATR_EFFECT:
  popToSp 0
  popToSp 4
  popToSp 8
